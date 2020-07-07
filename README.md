@@ -3,10 +3,7 @@ In this exercise we will try to learn how can we implement linear regression jus
 
 
 ## Table of content
-- Completed exercies:
 1. Data for regression
-
-- Work in progress:
 2. Regression coefficients
 3. Linear time trend
 4. Statistical significance test
