@@ -4,11 +4,15 @@ In this exercise we will try to learn how can we implement linear regression jus
 
 ## Table of content
 1. Data for regression
-2. Regression Coefficients
+2. Regression coefficients
 3. Linear time trend
 4. Statistical significance test
-5. Orthogonal Contrast
+5. Orthogonal contrast codes
 6. Linear time trend and seasonality
+
+
+## Data
+The data for the experiment is available inside the 'data' folder in this repository. Also, the output from each process outlined above will be shared in the same folder.
 
 
 ## Reading
