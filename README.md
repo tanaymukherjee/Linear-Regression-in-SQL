@@ -3,12 +3,15 @@ In this exercise we will try to learn how can we implement linear regression jus
 
 
 ## Table of content
+First create the [database](https://github.com/tanaymukherjee/Linear-Regression-in-SQL/blob/master/00_Create%20the%20database%20and%20table.sql) using the raw file before attempting the following:
 1. Data for regression
 2. Regression coefficients
 3. Linear time trend
 4. Statistical significance test
 5. Orthogonal contrast codes
 6. Linear time trend and seasonality
+
+The [R code](https://github.com/tanaymukherjee/Linear-Regression-in-SQL/blob/master/Linear-regression-in-sql.r) file is also shared to do the final analysis and calculating necessary parameters to understand the ouput of the regression from this exercise.
 
 
 ## Data
